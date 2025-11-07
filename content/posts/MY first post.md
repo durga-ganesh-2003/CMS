@@ -1,8 +1,8 @@
 ---
-title: Ganesh
+title: HAPPY BIRTHDAY
 date: 2025-11-06
-author: AKSHC
+author: GANESH
 status: published
 ---
 
-# New postjVDU
+AYDFKAUYVSCKXHAVSYUAV
