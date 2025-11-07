@@ -1,9 +1,8 @@
 ---
 title: Ganesh
-slug: MY first post
-status: draft
-date: 2025-11-07T07:06:00.000Z
+date: 2025-11-06
+author: AKSHC
+status: published
 ---
 
-
-# New post
+# New postjVDU
